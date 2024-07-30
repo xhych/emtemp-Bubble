@@ -1,5 +1,5 @@
 # 此仓库相比原版极大加快国内访问博客的页面加载速度
-分别用bootcdn和loli.net替换由cloudflare加速大部分js及css文件引入
+分别用bootcdn和loli.net替换由cloudflare加速大部分js及css文件引入  
 把fonts.googleapis.com修改为fonts.font.im
 
 # 以下为原仓库介绍，原仓库链接：[edocli/emtemp-Bubble](https://github.com/edocli/emtemp-Bubble)
